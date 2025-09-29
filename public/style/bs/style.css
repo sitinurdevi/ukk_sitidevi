@@ -1,0 +1,122 @@
+.card-profil {
+    background-color: #1C6EA4;
+}
+
+.navbar {
+    background-color: #154D71 !important;
+}
+
+footer {
+    background-color: #154D71;
+}
+
+.footer-bottom {
+    background-color: #1C6EA4;
+}
+
+.card-hover {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  .card-hover:hover {
+    background-color: #1C6EA4;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
+
+.card-hover1 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  .card-hover1:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    transform: scale(1);
+    color: #000000; /* warna teks agar lebih kontras */
+  }
+
+.image-scroll-container {
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 10px;
+  }
+
+  .image-scroll-container::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .image-scroll-container::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 4px;
+  }
+
+  .img-hover-effect {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+
+  .img-hover-effect:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Untuk membuat gambar tidak pecah saat inline-block */
+  .col-lg-2 {
+    vertical-align: top;
+  }
+
+.card-hover2 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+  .card-hover2:hover {
+    background-color: #67C090;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
+
+.card-hover3 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+.card-hover3:hover {
+    background-color: #1C6EA4;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
+
+.card-hover4 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+.card-hover4:hover {
+    background-color: #ff4545;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
+
+.card-hover5 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+.card-hover5:hover {
+    background-color: #FBB454;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
+
+.card-hover6 {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    cursor: pointer;
+  }
+
+.card-hover6:hover {
+    background-color: #C9CDCF;
+    transform: scale(1.05);
+    color: #fff; /* warna teks agar lebih kontras */
+  }
