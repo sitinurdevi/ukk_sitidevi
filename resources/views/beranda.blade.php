@@ -308,29 +308,29 @@
       <!-- TUTUP SECTION JURUSAN -->
 
       <!-- SECTIOIN GALERI -->
-             <div class="row mt-5">
-                  <div class="col-12">
+      <div class="row mt-5">
+            <div class="col-12">
                   <h2>Galeri</h2>
                   <p>Galeri kegiatan di SMKN 4 Tasikmalaya</p>
-                  <div class="row mt-5">
-                        <div class="col-6 col-md-3 mb-4">
+            <div class="row mt-5">
+                  <div class="col-6 col-md-3 mb-4">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfp5dS97I7BDPzPB_xkypI6jPQ0YELQVFilT3lByhC6yspCXyW0hBMehOu7qLEpZyootk&usqp=CAU" alt="" class="img-fluid w-100">
-                        </div>
-                        <div class="col-6 col-md-3 mb-4">
+                  </div>
+                  <div class="col-6 col-md-3 mb-4">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMZhER7fiddha6AX_S83KwqY5tX_2wP37VLpRFyKbx-c4hXLL2e4TirdvVuEyUngEMaA&usqp=CAU" alt="" class="img-fluid w-100">
-                        </div>
-                        <div class="col-6 col-md-3 mb-4">
+                  </div>
+                  <div class="col-6 col-md-3 mb-4">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2KVpFrhvE2WRvu_akPmzefC7XILEh6QiEGCLxdsRRlmMelpYKM3pvhfjcBnLaMYLpnZ8&usqp=CAU" alt="" class="img-fluid w-100">
-                        </div>
-                        <div class="col-6 col-md-3 mb-4">
+                  </div>
+                  <div class="col-6 col-md-3 mb-4">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3tPqYAmESvq8S4FrLjuNMwP77HXocRj71GD6uDyx1uIj2jD7ieVQ6Lk8NplwS2cHKBhw&usqp=CAU" alt="" class="img-fluid w-100">
-                        </div>
+                  </div>
                   </div>
                   <div class="text-center mt-5">
-                        <a class="btn btn-outline-secondary" href="galeri.html">Intip Galeri</a>
+                        <a class="btn btn-outline-secondary" href="/galeri">Intip Galeri</a>
                   </div>
-                  </div>
-                  </div>
+            </div>
+      </div>
 
       <!-- TUTUP SECTIOIN GALERI -->
 

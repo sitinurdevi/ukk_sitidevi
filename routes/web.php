@@ -4,20 +4,13 @@ use App\Http\Controllers\BeritaController;
 use App\Http\Controllers\EskulController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('index');
-});
 
-Route::get('/beranda', function () {
+Route::get('/', function () {
     return view('beranda');
 });
 
-Route::get('/sejarah', function () {
-    return view('sejarah');
-});
-
-Route::get('/vimis', function () {
-    return view('vimis');
+Route::get('/profil', function () {
+    return view('profil');
 });
 
 Route::get('/eskul', function () {
