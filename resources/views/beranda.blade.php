@@ -37,7 +37,7 @@
       <div class="row text-center g-3 mt-3">
             
             <div class="col-6 col-sm-4 col-md-3 col-lg-2">
-            <a href="/" class="text-decoration-none">
+            <a href="/sambutan" class="text-decoration-none">
             <div class="card card-hover1 border-primary-subtle h-100">
                   <div class="card-body">
                   <img src="./assets/image/sambutan.png" alt="" class="img-fluid" width="60">
@@ -48,7 +48,7 @@
             </div>
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2">
-            <a href="/sejarah" class="text-decoration-none">
+            <a href="/profil" class="text-decoration-none">
             <div class="card card-hover1 border-primary-subtle h-100">
                   <div class="card-body">
                   <img src="./assets/image/sejarah.png" alt="" class="img-fluid" width="60">
@@ -59,7 +59,7 @@
             </div>
 
             <div class="col-6 col-sm-4 col-md-3 col-lg-2">
-            <a href="/vimis" class="text-decoration-none">
+            <a href="/profil" class="text-decoration-none">
             <div class="card card-hover1 border-primary-subtle h-100">
                   <div class="card-body">
                   <img src="./assets/image/vimis.png" alt="" class="img-fluid" width="60">
@@ -202,7 +202,7 @@
        </div>
 
       <!-- SECTION DATA GURU -->
-       <div class="row mt-5 bg-primary-subtle">
+       <!-- <div class="row mt-5 bg-primary-subtle">
             <div class="col-lg-12">
                   <div class="container mt-2">
                   <h2>Data Guru</h2>
@@ -246,7 +246,7 @@
                         </div>
                   </div>
             </div>
-       </div>
+       </div> -->
       <!-- TUTUPSECTION DATA GURU -->
 
       <div class="container">

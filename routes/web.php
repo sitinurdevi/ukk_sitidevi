@@ -25,6 +25,10 @@ Route::get('/berita', function () {
     return view('berita');
 });
 
+Route::get('/sambutan', function () {
+    return view('sambutan');
+});
+
 
 Route::get('/berita', [BeritaController::class, 'index']);
 Route::get('/eskul', [EskulController::class, 'index']);
