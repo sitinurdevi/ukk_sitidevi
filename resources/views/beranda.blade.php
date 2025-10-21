@@ -108,49 +108,69 @@
       <!-- TUTUP SECTION LAYANAN -->
        
       <!-- SECTION BERITA  -->
-            <div class="row mt-5">
-                  <div class="col-lg-12">
-                        <h2>Berita</h2>
-                        <p>Aktivitas terbaru SMKN 4 Tasikmalaya</p>
-                        <div class="row">
-                              <div class="col-lg-4">
-                                    
-                                          <div class="card-header ">
-                                                <img width="100%" src="https://newstasikmalaya.com/storage/kapolsek-cibeureum-berikan-penyuluhan.jpg" alt="" class="rounded-4">
-                                          </div>
-                                          <div class="card-body mt-2">
-                                                <i class="bi bi-calendar2-week"> 2024-10-07 14:27 WIB</i>
-                                                <h3>Sosialisai Larangan Knalpot Brong</h3>
-                                                <a href="https://tasikmalaya.inews.id/read/502735/polsek-cibeureum-sosialisasikan-larangan-knalpot-brong-dan-geng-motor-di-smkn-4-kota-tasikmalaya" class="card-link">Baca selengkapnya</a>
-                                          </div>
-                                    
-                              </div>
-                              <div class="col-lg-4">
-                                    
-                                          <div class="card-header">
-                                                <img width="100%" src="https://assets.radartasik.id/main/2025/01/SMKn-4-tasikmalaya.webp" alt="" class="rounded-4">
-                                          </div>
-                                          <div class="card-body mt-2">
-                                                <i class="bi bi-calendar2-week"> 2024-07-24 11:52 WIB</i>
-                                                <h3>Peresmian Safety Riding Lab</h3>
-                                                <a href="https://www.pikiran-rakyat.com/otomotif/pr-018109177/honda-resmikan-safety-riding-lab-di-smkn-4-tasikmalaya-ciptakan-bibit-keselamatan-di-jawa-barat?page=all" class="card-link">Baca selengkapnya</a>
-                                          </div>
-                                    
-                              </div>
-                              <div class="col-lg-4">
-                                    
-                                          <div class="card-header">
-                                                <img width="100%" src="https://asset-2.tribunnews.com/jabar/foto/bank/images/Peresmian-antara-PT-Daya-Adicipta-Motora-dan-SMK-Negeri-4-Tasikmalaya.jpg" alt="" class="rounded-4">
-                                          </div>
-                                          <div class="card-body mt-2">
-                                                <i class="bi bi-calendar2-week"> 2023-03-02 13:55 WIB</i>
-                                                <h3>DAM Jalin Kerjasama Dengan SMKN 4 Tasikmalaya</h3>
-                                                <a href="https://www.ayotasik.com/berita-tasik/337810758/sinergi-bagi-negeri-dam-jalin-kerjasama-dengan-smkn-4-tasikmalaya" class="card-link">Baca selengkapnya</a>
-                                          </div>
-                              </div>
-                        </div>
+      <div class="row mt-5">
+      <div class="col-lg-12">
+            <h2>Berita</h2>
+            <p>Aktivitas terbaru SMKN 4 Tasikmalaya</p>
+            <div class="d-flex overflow-auto gap-3 pb-3" style="scroll-snap-type: x mandatory;">
+                  
+                  <div class="card flex-shrink-0" style="width: 300px; scroll-snap-align: start;">
+                  <div class="card-header p-0">
+                        <img src="https://newstasikmalaya.com/storage/kapolsek-cibeureum-berikan-penyuluhan.jpg" alt="" class="rounded-4 w-100">
+                  </div>
+                  <div class="card-body mt-2">
+                        <i class="bi bi-calendar2-week"> 2024-10-07 14:27 WIB</i>
+                        <h5 class="mt-2">Sosialisai Larangan Knalpot Brong</h5>
+                        <a href="/berita1">Baca selengkapnya</a>
+                  </div>
+                  </div>
+
+                  <div class="card flex-shrink-0" style="width: 300px; scroll-snap-align: start;">
+                  <div class="card-header p-0">
+                        <img src="https://assets.radartasik.id/main/2025/01/SMKn-4-tasikmalaya.webp" alt="" class="rounded-4 w-100">
+                  </div>
+                  <div class="card-body mt-2">
+                        <i class="bi bi-calendar2-week"> 2024-07-24 11:52 WIB</i>
+                        <h5 class="mt-2">Peresmian Safety Riding Lab</h5>
+                        <a href="/berita2">Baca selengkapnya</a>
+                  </div>
+                  </div>
+
+                  <div class="card flex-shrink-0" style="width: 300px; scroll-snap-align: start;">
+                  <div class="card-header p-0">
+                        <img src="https://asset-2.tribunnews.com/jabar/foto/bank/images/Peresmian-antara-PT-Daya-Adicipta-Motora-dan-SMK-Negeri-4-Tasikmalaya.jpg" alt="" class="rounded-4 w-100">
+                  </div>
+                  <div class="card-body mt-2">
+                        <i class="bi bi-calendar2-week"> 2023-03-02 13:55 WIB</i>
+                        <h5 class="mt-2">DAM Jalin Kerjasama Dengan SMKN 4 Tasikmalaya</h5>
+                        <a href="/berita3">Baca selengkapnya</a>
+                  </div>
+                  </div>
+
+                  <div class="card flex-shrink-0" style="width: 300px; scroll-snap-align: start;">
+                  <div class="card-header p-0">
+                        <img src="https://news.bsi.ac.id/wp-content/uploads/2024/07/Dokumen-1-750x430.jpeg" alt="" class="rounded-4 w-100">
+                  </div>
+                  <div class="card-body mt-2">
+                        <i class="bi bi-calendar2-week"> 2023-03-02 13:55 WIB</i>
+                        <h5 class="mt-2">Aplikasi SIMORING Dari Universitas BSI Untuk PKL</h5>
+                        <a href="/berita4">Baca selengkapnya</a>
+                  </div>
+                  </div>
+
+                  <div class="card flex-shrink-0" style="width: 300px; scroll-snap-align: start;">
+                  <div class="card-header p-0">
+                        <img src="https://assets.jabarekspres.com/main/2024/05/WhatsApp-Image-2024-05-20-at-13.22.51-1200x675.webp" alt="" class="rounded-4 w-100">
+                  </div>
+                  <div class="card-body mt-2">
+                        <i class="bi bi-calendar2-week"> 2023-03-02 13:55 WIB</i>
+                        <h5 class="mt-2">SMKN 4 Tasikmalaya Tekankan Keselamatan Berkendara</h5>
+                        <a href="/berita5">Baca selengkapnya</a>
+                  </div>
                   </div>
             </div>
+      </div>
+      </div>
       <!-- TUTUP SECTION BERITA  -->
 
       <!-- SECTION STATISTIK -->
